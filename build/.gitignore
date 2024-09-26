@@ -1,4 +1,10 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
+*.hex
+*.o
+*.elf
+*.DS_Store
+*.d
+
+README.md
+
+.pio
+.vscode
